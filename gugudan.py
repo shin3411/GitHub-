@@ -5,4 +5,4 @@ def print_gugudan(a):
             print(dan," X ",num," = ",dan*num)
     print("--------------------------------")
 
-print_gugudan(8) #argument 8을 9로 바꿔줍니다
+print_gugudan(9) #argument 8을 9로 바꿔줍니다
